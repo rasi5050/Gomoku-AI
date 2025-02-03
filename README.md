@@ -3,7 +3,7 @@
 #### Gomoku-AI is an AI developed for fulfilling the requirements for CIS667(Introduction to Artificial Intelligence) Final Project Fall 2023. This respository contains the boilerplate code and our implementation of CNN + minimax heuristic function.
 
 ## Team Members
-@srelan46 @NiranjanBalasubramani @nilesh507 @rasi5050
+[Sanchit Relan](https://github.com/srelan46) [Niranjan Balasubramani](https://github.com/NiranjanBalasubramani) [Nilesh Bhoi](https://github.com/nilesh507) [Rasi](https://github.com/rasi5050)
 
 ## Introduction
 
